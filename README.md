@@ -9,4 +9,5 @@ and minimum frauds. We present detailed experimental results to show the effecti
 
 
 ##
-#h1 [feel free to contact me]:(https://www.linkedin.com/in/swapnil-martin-89068a98/)
+#h1 [feel free to contact me](https://www.linkedin.com/in/swapnil-martin-89068a98/ "Linked in ")
+#h2  [feel free to contact me](https://twitter.com/iamascetic "tweet me !")
